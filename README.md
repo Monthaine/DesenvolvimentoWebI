@@ -1,2 +1,12 @@
-# DesenvolvimentoWebI
-Repositório dedicado ao estudo dos fundamentos de desenvolvimento web, incluindo estrutura HTML, estilização com CSS e organização de páginas.
+# Desenvolvimento Web I
+
+Repositório com exercícios e exemplos desenvolvidos na disciplina de Desenvolvimento Web I.
+
+## Conteúdos estudados 
+
+- Estrutura básica do HTML
+- Tags e atributos
+- Listas e links
+- Inserção de imagens
+- Uso de divs
+- Estilização com CSS
