@@ -1,0 +1,80 @@
+/*comentário é assim agora*/
+/*folha de estilo = conjunto de regras*/
+
+
+body{
+    font-family: "JetBrains Mono", monospace;
+    background-color: #e3e0f7;
+    color: #3d3b61;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+span {
+    color : #4f720a;
+}
+
+pre{
+    border-left: 5px solid #707070;
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    padding: 15px;
+    border-radius: 8px;
+    overflow-x: auto;
+}
+
+code{
+    color: #569cd6;
+}
+
+h1 {
+    color: #0a6b72;
+    background-color: #dad4ff;
+}
+
+b {
+    color: #701640;
+}
+
+span.code {
+    color: #2c8b5c;
+    font-weight: bold;
+    padding: 10px;
+    border-left: 5px solid #f5c6cb;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #300202;
+    background-color: #dbd5fc;
+    margin-bottom: 30px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+p.nota {
+    color: #6e0404;
+    font-weight: bold;
+    padding: 10px;
+    border-left: 5px solid #f5c6cb;
+    margin-bottom: 20px;
+}
+
+hr{
+    border:none;
+    height:1px;
+    background:#888;
+}
+
+a{
+    color:#3b50c5;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+a:hover{
+    color:#bb1717;
+}
